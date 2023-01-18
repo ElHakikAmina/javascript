@@ -54,6 +54,9 @@ body{
     object-fit:cover;
     border-radius:5px;
 }
+.product .p-details{
+    padding-left:15px;
+}
 .product .p-details h2{
     font-size:20px;
     color:#1d1d1d;
